@@ -40,7 +40,7 @@ features                                  :
     fontawesome_icon_name                 : list-ol
     
   - title                                 : Kanji details
-    description                           : Each lesson covers vocabulary from 8 to 10 kanji, includes onyomi, kunyomi, strokes from awesome kanjialive.
+    description                           : Each lesson covers vocabulary from 8 to 10 kanji, includes onyomi, kunyomi, strokes from awesome [kanjialive](https://www.kanjialive.com)).
     fontawesome_icon_name                 : language
 
   - title                                 : Test your knowledge
