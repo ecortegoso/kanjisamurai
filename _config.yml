@@ -36,11 +36,11 @@ youtube_username                          :
 features                                  :
 
   - title                                 : 59 Kanji Lessons
-    description                           : Based on yomirenshuu lessons of the Languages Official School Drassanes of Barcelona, A-B1 grades.
+    description                           : Based on yomirenshuu lessons of the <a href="https://www.eoibd.cat">Languages Official School Drassanes</a> of Barcelona, A-B1 grades.
     fontawesome_icon_name                 : list-ol
     
   - title                                 : Kanji details
-    description                           : Each lesson covers vocabulary from 8 to 10 kanji, includes onyomi, kunyomi, strokes from awesome <a href:"https://www.kanjialive.com">KaniAlive</a>.
+    description                           : Each lesson covers vocabulary from 8 to 10 kanji, includes onyomi, kunyomi, strokes from awesome <a href="https://www.kanjialive.com">KanjiAlive</a>.
     fontawesome_icon_name                 : language
 
   - title                                 : Test your knowledge
