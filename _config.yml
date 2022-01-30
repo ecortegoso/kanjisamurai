@@ -40,12 +40,12 @@ features                                  :
     fontawesome_icon_name                 : list-ol
     
   - title                                 : Kanji details
-    description                           : Each lesson covers vocabulary from 8 to 10 kanji, includes onyomi, kunyomi, strokes from awesome [kanjialive](https://www.kanjialive.com)).
+    description                           : Each lesson covers vocabulary from 8 to 10 kanji, includes onyomi, kunyomi, strokes from awesome <a href:"https://www.kanjialive.com">KaniAlive</a>.
     fontawesome_icon_name                 : language
 
   - title                                 : Test your knowledge
     description                           : Random generated reading tests to prove your skill. Uses your device voice recognition to answer.
-    fontawesome_icon_name                 : graduation-cap
+    fontawesome_icon_name                 : microphone
 
   - title                                 : Highly configurable learning
     description                           : You can delay the hiragana to appear while you are studying and select a voice over to listen
