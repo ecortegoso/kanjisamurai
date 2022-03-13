@@ -49,7 +49,7 @@ features                                  :
     
   - title                                 : Test your writing skill
     description                           : Random generated writing tests to prove your skill. Write with your finger or pencil to answer.
-    fontawesome_icon_name                 : pencil
+    fontawesome_icon_name                 : pen-to-square
 
   - title                                 : Highly configurable learning
     description                           : You can delay the hiragana to appear while you are studying and select a voice over to listen
