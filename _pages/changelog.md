@@ -5,6 +5,16 @@ include_in_header: true
 ---
 
 ### `Latest`
+# **Version 1.1**
+This is the first big update to Kanji Samurai, adding writing tests.
+
+#### What's new
+- Writing test to prove your kanji writing ability, they use the same configuration for the reading tests available before.
+- Individual kanji characters included in each lesson can now be accessed in a same page, from where you can get further detail.
+- You can check all words using a certain kanji from all the lessons included in the app.
+- A new option to display example sentences or word definition in the link to Jisho.org.
+
+### `Previous versions`
 # **Version 1.0**
 This is the initial release of Kanji Samurai.
 
