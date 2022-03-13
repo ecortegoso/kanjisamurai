@@ -12,7 +12,7 @@ This is the first big update to Kanji Samurai, adding writing tests.
 - Writing test to prove your kanji writing ability, they use the same configuration for the reading tests available before.
 - Individual kanji characters included in each lesson can now be accessed in a same page, from where you can get further detail.
 - You can check all words using a certain kanji from all the lessons included in the app.
-- A new option to display example sentences or word definition in the link to Jisho.org.
+- A new option to display example sentences or word definition in the link to <a href="Jisho.org">Jisho.org</a>.
 
 ### `Previous versions`
 # **Version 1.0**
